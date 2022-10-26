@@ -1,0 +1,15 @@
+C:\Users\JolyGenious\source\repos\PractosNumber5\PractosNumber5\bin\Debug\net6.0\PractosNumber5.exe
+C:\Users\JolyGenious\source\repos\PractosNumber5\PractosNumber5\bin\Debug\net6.0\PractosNumber5.deps.json
+C:\Users\JolyGenious\source\repos\PractosNumber5\PractosNumber5\bin\Debug\net6.0\PractosNumber5.runtimeconfig.json
+C:\Users\JolyGenious\source\repos\PractosNumber5\PractosNumber5\bin\Debug\net6.0\PractosNumber5.dll
+C:\Users\JolyGenious\source\repos\PractosNumber5\PractosNumber5\bin\Debug\net6.0\PractosNumber5.pdb
+C:\Users\JolyGenious\source\repos\PractosNumber5\PractosNumber5\obj\Debug\net6.0\PractosNumber5.csproj.AssemblyReference.cache
+C:\Users\JolyGenious\source\repos\PractosNumber5\PractosNumber5\obj\Debug\net6.0\PractosNumber5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JolyGenious\source\repos\PractosNumber5\PractosNumber5\obj\Debug\net6.0\PractosNumber5.AssemblyInfoInputs.cache
+C:\Users\JolyGenious\source\repos\PractosNumber5\PractosNumber5\obj\Debug\net6.0\PractosNumber5.AssemblyInfo.cs
+C:\Users\JolyGenious\source\repos\PractosNumber5\PractosNumber5\obj\Debug\net6.0\PractosNumber5.csproj.CoreCompileInputs.cache
+C:\Users\JolyGenious\source\repos\PractosNumber5\PractosNumber5\obj\Debug\net6.0\PractosNumber5.dll
+C:\Users\JolyGenious\source\repos\PractosNumber5\PractosNumber5\obj\Debug\net6.0\refint\PractosNumber5.dll
+C:\Users\JolyGenious\source\repos\PractosNumber5\PractosNumber5\obj\Debug\net6.0\PractosNumber5.pdb
+C:\Users\JolyGenious\source\repos\PractosNumber5\PractosNumber5\obj\Debug\net6.0\PractosNumber5.genruntimeconfig.cache
+C:\Users\JolyGenious\source\repos\PractosNumber5\PractosNumber5\obj\Debug\net6.0\ref\PractosNumber5.dll
